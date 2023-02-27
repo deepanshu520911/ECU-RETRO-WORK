@@ -23,7 +23,7 @@
 * **1.ECU module**
 
  * a)Designed a cover in house to protect ECU from external damages. It is made of fiber glass using polyster resin and is manufactured in house as well. Ventilation holes are provided over the top for sufficient cooling.
- * 
+ ![ECU COVER](https://github.com/deepanshu520911/ECU-RETRO-WORK/blob/main/ECU%20COVER.png?raw=true)
  * b)Modification done on both ENGINE HARNESS and ECU HARNESS mouning points and rerouting is done.
 
 *  **2.ECU harness** 
@@ -35,6 +35,14 @@
   * a)Routing of wiring harness is changed to imporve safety and longevity of harness and mounting points is impoved by providing extra mounting points.
   * b)Newly designed brackets are made in house to eliminate issue of lack of spares availability as we now not depend on other vendors for brackets.
   * c)Training is provided to electricians so that maintenance quality will improve as well.
+  
+  [Click here for Final Work Presentation](https://github.com/deepanshu520911/ECU-RETRO-WORK/blob/main/ECU%20%26%20Wiring%20rerouting%20retro.pptx)
 
 ## Impact:
-  * 
+By combining all above massive improvement has been observed after few months:-
+
+  * a)Reduction in ECU failure from 15-25 to 1-5 per month.
+  * b)Reduction in failure of engine harness from 12 to 4 per month
+  * c)Reduction in failure of ECU harness from 20 to 5 per month
+  * d)Reduction in Breakdown and improved uptime and availability by 15%.
+  * e)Reduction in Excessive Breakdown in rainy season due to electrical failure from 90 to 20 Breakdowns per day in extreme rainy days.
